@@ -1,0 +1,12 @@
+MEU PORTFÓLIO — COMO USAR
+
+1. Extraia a pasta meu-portfolio.zip.
+2. Abra a pasta meu-portfolio no Visual Studio Code.
+3. Abra index.html no navegador. Recomendado: instale a extensão Live Server no VS Code e clique em "Go Live".
+4. Personalize no index.html:
+   - Troque "SEU NOME AQUI" e "SEU NOME" pelo seu nome.
+   - Troque os links genéricos do GitHub, LinkedIn, Instagram, e-mail e WhatsApp pelos seus.
+   - Troque os projetos de exemplo pelos seus projetos reais.
+5. Para o botão "Baixar meu CV" funcionar, coloque seu arquivo de currículo na mesma pasta e nomeie-o curriculo.pdf.
+
+Observação: Google Fonts e Bootstrap Icons precisam de conexão com a internet para carregar.
